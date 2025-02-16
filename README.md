@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on big companies and someday earn my spot up there!!!
 - 📫 You can reach me on my email warren.jacob.abdon1@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Sometimes I feel so lazy but when I told myself to code, and when I started to code. I code n o n - s t o p.
+- ⚡ Fun fact: Sometimes I feel so lazy, but when I tell myself to code and  I started to code, I code N O N - S T O P.
 
 <!---
 warren-wacko/warren-wacko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
