@@ -6,7 +6,7 @@ on:
   workflow_dispatch:  # manual trigger
   push:
     branches:
-      - main  # Make sure this is set to your default branch
+      - master  # Make sure this is set to your default branch
 
 jobs:
   generate:
