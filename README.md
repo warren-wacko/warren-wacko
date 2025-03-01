@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋! I'm Wacko, a third-year Computer Science student, and I'm always hungry
-  (￣﹃￣)</h2>
+<h2 align="center">Hi 👋! I'm Wacko, a third-year Computer Science student, and I'm always hungry</h2>
+<h2 align="center"> (￣﹃￣)</h2>
 
 ###
 
